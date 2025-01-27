@@ -1,0 +1,2 @@
+Put the data from https://www.ers.usda.gov/data-products/county-level-data-sets and
+https://seer.cancer.gov/popdata/ here
